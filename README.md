@@ -74,7 +74,7 @@
 1. **Clone the Repository** 🐙
 
    ```bash
-   git clone https://github.com/yourusername/planet-explorer.git
+   git clone https://github.com/HT13v/planet-explorer.git
    cd planet-explorer
 1. **installation** 🐙
 
